@@ -120,7 +120,7 @@ const Footer: React.FC<FooterProps> = ({ className }) => {
               rel="noopener noreferrer" 
               className="text-xs text-foreground/60 hover:text-giftcard-blue transition-colors duration-300 flex items-center"
             >
-              Powered by <span className="font-medium ml-1">AmexGiftCardBalances.com</span>
+              Powered by <span className="font-medium ml-1">Amex Gift Card Balances</span>
               <ExternalLink className="h-3 w-3 ml-1" />
             </a>
           </div>
