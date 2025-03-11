@@ -97,22 +97,7 @@ const Index = () => {
           <div className="absolute inset-0 bg-gradient-to-r from-giftcard-blue/5 to-giftcard-blue/10 z-0" />
           <div className="absolute top-0 right-0 w-1/3 h-1/3 bg-giftcard-lightBlue rounded-full filter blur-3xl opacity-40" />
           
-          <div className="container mx-auto px-4 relative z-10">
-            <div className="max-w-3xl mx-auto text-center">
-              <h2 className="text-3xl md:text-4xl font-bold tracking-tight mb-6">
-                Ready to Find Your Perfect Gift Card?
-              </h2>
-              <p className="text-lg text-foreground/70 mb-8 max-w-2xl mx-auto">
-                Browse our extensive collection of premium gift cards and make someone's day special.
-              </p>
-              <a 
-                href="/categories"
-                className="inline-flex items-center justify-center px-8 py-4 bg-giftcard-blue text-white font-medium rounded-lg transition-transform duration-300 hover:scale-105 shadow-sm"
-              >
-                Explore All Gift Cards
-              </a>
-            </div>
-          </div>
+         
         </section>
       </main>
       
