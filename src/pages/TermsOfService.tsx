@@ -10,7 +10,7 @@ const TermsOfService = () => {
       <Helmet>
         <title>Terms of Service | GiftOptima</title>
         <meta name="description" content="Read GiftOptima's terms of service to understand the rules and guidelines for using our gift card platform." />
-        <link rel="canonical" href="https://giftoptima.com/terms-of-service" />
+        <link rel="canonical" href="https://giftoptima.netlify.app/terms-of-service" />
       </Helmet>
       
       <NavBar />
