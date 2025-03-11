@@ -15,17 +15,17 @@ const About = () => {
         
         {/* Open Graph / Facebook */}
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://giftoptima.com/about" />
+        <meta property="og:url" content="https://giftoptima.netlify.app/about" />
         <meta property="og:title" content="About GiftOptima | Premium Gift Card Solutions" />
         <meta property="og:description" content="Learn about GiftOptima, your trusted source for premium gift cards." />
-        <meta property="og:image" content="/og-image.png" />
+        <meta property="og:image" content="/og-image.jpg" />
         
         {/* Twitter */}
         <meta property="twitter:card" content="summary_large_image" />
-        <meta property="twitter:url" content="https://giftoptima.com/about" />
+        <meta property="twitter:url" content="https://giftoptima.netlify.app/about" />
         <meta property="twitter:title" content="About GiftOptima | Premium Gift Card Solutions" />
         <meta property="twitter:description" content="Learn about GiftOptima, your trusted source for premium gift cards." />
-        <meta property="twitter:image" content="/og-image.png" />
+        <meta property="twitter:image" content="/og-image.jpg" />
         
         {/* Additional SEO */}
         <meta name="robots" content="index, follow" />
@@ -33,7 +33,7 @@ const About = () => {
         <meta name="author" content="GiftOptima" />
         
         {/* Canonical */}
-        <link rel="canonical" href="https://giftoptima.com/about" />
+        <link rel="canonical" href="https://giftoptima.netlify.app/about" />
       </Helmet>
       
       <NavBar />
