@@ -4,7 +4,7 @@ User-agent: *
 Allow: /
 
 # Sitemaps
-Sitemap: https://giftoptima.com/sitemap.xml
+Sitemap: https://giftoptima.netlify.app/sitemap.xml
 
 # Disallow specific paths if needed in the future
 # Disallow: /admin/
