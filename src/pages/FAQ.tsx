@@ -11,7 +11,7 @@ const FAQ = () => {
       <Helmet>
         <title>Frequently Asked Questions | GiftOptima</title>
         <meta name="description" content="Find answers to common questions about GiftOptima's gift card services, delivery options, redemption process, and more." />
-        <link rel="canonical" href="https://giftoptima.com/faq" />
+        <link rel="canonical" href="https://giftoptima.netlify.app/faq" />
       </Helmet>
       
       <NavBar />
