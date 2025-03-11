@@ -6,6 +6,4 @@ Allow: /
 # Sitemaps
 Sitemap: https://giftoptima.netlify.app/sitemap.xml
 
-# Disallow specific paths if needed in the future
-# Disallow: /admin/
-# Disallow: /private/
+
