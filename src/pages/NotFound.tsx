@@ -28,16 +28,16 @@ const NotFound = () => {
         <meta property="og:url" content="https://giftoptima.com/404" />
         <meta property="og:title" content="Page Not Found | GiftOptima" />
         <meta property="og:description" content="The page you are looking for could not be found." />
-        <meta property="og:image" content="/og-image.png" />
+        <meta property="og:image" content="/og-image.jpg" />
         
         {/* Twitter */}
         <meta property="twitter:card" content="summary" />
-        <meta property="twitter:url" content="https://giftoptima.com/404" />
+        <meta property="twitter:url" content="https://giftoptima.netlify.app/404" />
         <meta property="twitter:title" content="Page Not Found | GiftOptima" />
         <meta property="twitter:description" content="The page you are looking for could not be found." />
         
         {/* Canonical - pointing to homepage as this is a 404 */}
-        <link rel="canonical" href="https://giftoptima.com/" />
+        <link rel="canonical" href="https://giftoptima.netlify.app/" />
       </Helmet>
       
       <NavBar />
