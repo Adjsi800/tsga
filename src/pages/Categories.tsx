@@ -79,17 +79,17 @@ const Categories = () => {
         
         {/* Open Graph / Facebook */}
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://giftoptima.com/categories" />
+        <meta property="og:url" content="https://giftoptima.netlify.app/categories" />
         <meta property="og:title" content="Gift Cards - Browse Our Premium Collection | GiftOptima" />
         <meta property="og:description" content="Browse our extensive collection of premium gift cards." />
-        <meta property="og:image" content="/og-image.png" />
+        <meta property="og:image" content="/og-image.jpg" />
         
         {/* Twitter */}
         <meta property="twitter:card" content="summary_large_image" />
-        <meta property="twitter:url" content="https://giftoptima.com/categories" />
+        <meta property="twitter:url" content="https://giftoptima.netlify.app/categories" />
         <meta property="twitter:title" content="Gift Cards - Browse Our Premium Collection | GiftOptima" />
         <meta property="twitter:description" content="Browse our extensive collection of premium gift cards." />
-        <meta property="twitter:image" content="/og-image.png" />
+        <meta property="twitter:image" content="/og-image.jpg" />
         
         {/* Additional SEO */}
         <meta name="robots" content="index, follow" />
@@ -97,7 +97,7 @@ const Categories = () => {
         <meta name="author" content="GiftOptima" />
         
         {/* Canonical */}
-        <link rel="canonical" href="https://giftoptima.com/categories" />
+        <link rel="canonical" href="https://giftoptima.netlify.app/categories" />
       </Helmet>
       
       
