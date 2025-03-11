@@ -10,7 +10,7 @@ const PrivacyPolicy = () => {
       <Helmet>
         <title>Privacy Policy | GiftOptima</title>
         <meta name="description" content="Learn about GiftOptima's privacy policy and how we protect your personal information." />
-        <link rel="canonical" href="https://giftoptima.com/privacy-policy" />
+        <link rel="canonical" href="https://giftoptima.netlify.app/privacy-policy" />
       </Helmet>
       
       <NavBar />
