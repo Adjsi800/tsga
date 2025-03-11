@@ -3,7 +3,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <!-- Homepage -->
   <url>
-    <loc>https://giftoptima.com/</loc>
+    <loc>https://giftoptima.netlify.app/</loc>
     <lastmod>2023-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -11,7 +11,7 @@
 
   <!-- Categories Page -->
   <url>
-    <loc>https://giftoptima.com/categories</loc>
+    <loc>https://giftoptima.netlify.app/categories</loc>
     <lastmod>2023-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -19,7 +19,7 @@
 
   <!-- About Page -->
   <url>
-    <loc>https://giftoptima.com/about</loc>
+    <loc>https://giftoptima.netlify.app/about</loc>
     <lastmod>2023-11-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -27,7 +27,7 @@
 
   <!-- FAQ Page -->
   <url>
-    <loc>https://giftoptima.com/faq</loc>
+    <loc>https://giftoptima.netlify.app/faq</loc>
     <lastmod>2023-11-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -35,7 +35,7 @@
 
   <!-- Privacy Policy Page -->
   <url>
-    <loc>https://giftoptima.com/privacy-policy</loc>
+    <loc>https://giftoptima.netlify.app/privacy-policy</loc>
     <lastmod>2023-11-15</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
@@ -43,7 +43,7 @@
 
   <!-- Terms of Service Page -->
   <url>
-    <loc>https://giftoptima.com/terms-of-service</loc>
+    <loc>https://giftoptima.netlify.app/terms-of-service</loc>
     <lastmod>2023-11-15</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
@@ -52,7 +52,7 @@
   <!-- Individual Gift Card Pages would be dynamically generated in a real application -->
   <!-- Example:
   <url>
-    <loc>https://giftoptima.com/card/amazon-gift-card</loc>
+    <loc>https://giftoptima.netlify.app/amazon-gift-card</loc>
     <lastmod>2023-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
